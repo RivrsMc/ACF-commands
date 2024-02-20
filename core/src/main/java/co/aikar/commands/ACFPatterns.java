@@ -23,8 +23,8 @@
 
 package co.aikar.commands;
 
-import net.jodah.expiringmap.ExpirationPolicy;
-import net.jodah.expiringmap.ExpiringMap;
+import co.aikar.commands.expiringmap.ExpirationPolicy;
+import co.aikar.commands.expiringmap.ExpiringMap;
 
 import java.util.Map;
 import java.util.concurrent.TimeUnit;

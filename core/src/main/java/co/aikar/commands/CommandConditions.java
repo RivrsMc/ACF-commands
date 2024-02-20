@@ -23,7 +23,7 @@
 
 package co.aikar.commands;
 
-import co.aikar.util.Table;
+import co.aikar.commands.utils.Table;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.HashMap;

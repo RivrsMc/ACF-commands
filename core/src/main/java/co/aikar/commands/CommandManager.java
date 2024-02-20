@@ -24,8 +24,8 @@
 package co.aikar.commands;
 
 import co.aikar.commands.annotation.Dependency;
+import co.aikar.commands.utils.Table;
 import co.aikar.locales.MessageKeyProvider;
-import co.aikar.util.Table;
 import org.jetbrains.annotations.NotNull;
 
 import java.lang.reflect.Field;

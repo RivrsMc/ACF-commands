@@ -43,7 +43,7 @@ See [Examples](https://github.com/aikar/commands/wiki/Real-World-Examples) for s
 We are on version:
 
 - GROUP: co.aikar
-- VERSION `0.5.1-SNAPSHOT`
+- VERSION `0.5.2-SNAPSHOT`
 
 ARTIFACTID varies by platform target:
 
